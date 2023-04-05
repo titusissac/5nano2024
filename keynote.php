@@ -159,6 +159,16 @@ Govt. of  India.<br>
                       </div>
               </div>
               
+              <div  class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ 	 	             <div class="col-lg-offset-3 col-lg-3 col-md-offset-3 col-md-3 col-sm-12 col-xs-12">
+        	         <center><br> <img  class="bg1 img2" src="/images/Dr.Azusa.N.Hattori.jpg" width="200 em"></img><br>
+        	 	     </div>
+                	 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="valign='center';">
+              	      <h3><center>Dr. Azusa N. HATTORI,</h3>
+                      <h4 style="text-indent:0em"><center>Osaka University, Japan<br>
+                      <center>Atlanta, USA.</h4>
+                      </div>
+              </div>
                
               <div  class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
  	 	             <div class="col-lg-offset-3 col-lg-3 col-md-offset-3 col-md-3 col-sm-12 col-xs-12">
@@ -294,7 +304,22 @@ Govt. of  India.<br>
                       <center>Bengaluru, Karnataka, India </h4>
                       </div>
               </div>
+              <div  class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ 	 	             <div class="col-lg-offset-3 col-lg-3 col-md-offset-3 col-md-3 col-sm-12 col-xs-12">
+        	         <center><br> <img  class="bg1 img2" src="/images/Dr.Rachana.jpg" width="200 em"></img><br>
+        	 	     </div>
+                	 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12" style="valign='center';">
+              	      <h3><center> Dr Rachana</h3>
+                      <h4 style="text-indent:0em"><center>
 
+                 Jaypee Institute of Information Technology, 
+
+                      <center>Noida, Uttar Pradesh, India </h4>
+                      </div>
+              </div>
+
+
+              Dr Rachana
 
 
 
