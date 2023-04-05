@@ -319,8 +319,6 @@ Govt. of  India.<br>
               </div>
 
 
-              Dr Rachana
-
 
 
                <!--
