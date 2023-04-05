@@ -797,16 +797,11 @@ function mywebfoot()
                </div>
                </center>
         
-        </div>-
+        </div>-->
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 " style="overflow: hidden;">
           <center><h3 class="confname"> Flag counter  </h3>
           
-    
-         
-         <a href="https://info.flagcounter.com/l4Fo"><img src="https://s11.flagcounter.com/count/l4Fo/bg_FFFFFF/txt_0000FF/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-         
-       
-         
+          <a href="https://info.flagcounter.com/tuUB"><img src="https://s11.flagcounter.com/count/tuUB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
            
                
           </div> 
