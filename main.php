@@ -467,7 +467,7 @@ Elanji, Ernakulam, Kerala, India - 686 665.</address>
                  
                  
              
-                    <div class="confname " style= "text-align:center; font-size: 2em;"> 5NANO2024
+                    <div class="confname " style= "text-align:center; font-size: 2em;"> 5NANO2025
                     </div>
                     <div  class="confname " style= "text-align:center; font-size:1.75em;" >
 			           2024 International Conference on Nanoelectronics, Nanophotonics, Nanomaterials, Nanobioscience & Nanotechnology (5NANO 2024)   
